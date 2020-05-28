@@ -1,5 +1,5 @@
 # Timetable-Generation
-##### Mini system built for generating timetables using Python and MS Excel.
+#### Mini system built for generating timetables using Python and MS Excel.
 
 Refer the 'Mini Project Report' to understand the flow of code.
 
