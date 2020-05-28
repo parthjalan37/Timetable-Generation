@@ -7,4 +7,4 @@ Sample input and output:
 
 ![](images/GUI%20input.png)
 
-![](images/GUI%20input.png)
+![](images/Excel%20output.png)
