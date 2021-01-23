@@ -1,5 +1,5 @@
 # Timetable-Generation
-#### Mini system built for generating timetables using Python and MS Excel.
+#### Using Python and database management to build a user friendly interface for institutes to create and manage timetables of multiple branches and courses.
 
 Refer the 'Mini Project Report' to understand the flow of code.
 
